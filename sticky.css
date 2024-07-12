@@ -1,0 +1,21 @@
+.s,.t,.u{
+    display: inline;
+    height: 20px;
+    width: 600px;
+    top: 0px;
+    left: 0px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    border: 3px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px;
+    cursor: pointer;
+}
+.para,h1{
+    text-align: center;
+    margin: 30px;
+    justify-content: center;
+}
